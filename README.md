@@ -1,2 +1,2 @@
 # Boostrap
-front end web development with boostra[
+front end web development with boostrap
